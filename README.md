@@ -125,32 +125,6 @@ multiclass-fish-classification/
 └── README.md
 ```
 
-## 🚀 Installation
-
-### Prerequisites
-
-- Python 3.8 or higher
-- GPU (optional, but recommended for training)
-
-### Setup
-
-1. **Clone the repository**:
-```bash
-git clone https://github.com/yourusername/multiclass-fish-classification.git
-cd multiclass-fish-classification
-```
-
-2. **Create a virtual environment** (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies**:
-```bash
-pip install -r requirements.txt
-```
-
 ### Requirements
 
 Create a `requirements.txt` file with:
@@ -279,15 +253,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Dataset**: [Mention dataset source if applicable]
+- **Dataset**: https://drive.google.com/drive/folders/1iKdOs4slf3XvNWkeSfsszhPRggfJ2qEd
 - **Pre-trained Models**: TensorFlow/Keras Applications
 - **Inspiration**: Marine biology research and sustainable fishing practices
-
-## 📧 Contact
-
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/multiclass-fish-classification](https://github.com/yourusername/multiclass-fish-classification)
 
 ---
 
@@ -303,18 +271,6 @@ Project Link: [https://github.com/yourusername/multiclass-fish-classification](h
 
 ---
 
-### 📌 Quick Start Commands
 
-```bash
-# Clone and setup
-git clone https://github.com/yourusername/multiclass-fish-classification.git
-cd multiclass-fish-classification
-pip install -r requirements.txt
-
-# Run the app
-streamlit run MFC_App.py
-```
-
----
 
 **⭐ If you find this project helpful, please give it a star!**
